@@ -2,7 +2,7 @@
 <!-- https://www.youtube.com/watch?v=DS1APTgwfgE -->
 
 <?php
-// bintang 5
+
 function star($l){
 
 if ($l%2) {
