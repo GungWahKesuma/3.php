@@ -1,5 +1,7 @@
 <!-- https://www.youtube.com/watch?v=d_yvLLai4w4 -->
 <!-- https://www.youtube.com/watch?v=DS1APTgwfgE -->
+<!-- https://www.codepolitan.com/mencetak-beragam-pola-dengan-konsep-perulangan-1 -->
+<!-- https://www.duniailkom.com/tutorial-belajar-php-cara-penulisan-dan-pembuatan-fungsi-php/ -->
 
 <?php
 
