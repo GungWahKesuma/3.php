@@ -3,7 +3,7 @@
 
 <?php
 // bintang 5
-function bintang($l){
+function star($l){
 
 if ($l%2) {
     echo "<hr>";
@@ -87,6 +87,6 @@ if ($l%2) {
 return $l;
 }
 
-echo "".bintang(6);
+star(6);
 
 ?>
